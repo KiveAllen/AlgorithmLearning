@@ -90,6 +90,7 @@ public class Main {
 }
 
 ```
-
+### 运行结果示意图
+![运行结果示意](https://github.com/KiveAllen/AlgorithmLearning/blob/main/%E5%9B%BE%E7%89%87%E5%92%8C%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C/%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F(String)%E7%9A%84%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.jpg)
 
 
