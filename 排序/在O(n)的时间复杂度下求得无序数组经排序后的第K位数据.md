@@ -66,4 +66,5 @@ public class Main {
 }
 
 ```
-
+### 运行示意图
+![在O(n)的时间复杂度下求得无序数组经排序后的第K位数据](https://github.com/KiveAllen/AlgorithmLearning/blob/main/%E5%9B%BE%E7%89%87%E5%92%8C%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C/%E5%9C%A8O(n)%E7%9A%84%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E4%B8%8B%E6%B1%82%E5%BE%97%E6%97%A0%E5%BA%8F%E6%95%B0%E7%BB%84%E7%BB%8F%E6%8E%92%E5%BA%8F%E5%90%8E%E7%9A%84%E7%AC%ACK%E4%BD%8D%E6%95%B0%E6%8D%AE.jpg)
